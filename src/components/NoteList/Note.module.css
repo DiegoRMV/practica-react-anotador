@@ -1,0 +1,16 @@
+.mainContainer {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 2px solid;
+}
+
+.notaContainer {
+    flex: 1;
+    
+}
+
+
+.iconContainer {
+    cursor: pointer;
+}
